@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Barlow;
+  src: url("./Barlow-Regular.ttf") format("trueType");
+  font-display: block;
+}
+
+@font-face {
+  font-family: Barlow-Bold;
+  src: url("./Barlow-Bold.ttf") format("trueType");
+  font-display: block;
+}
+
+@font-face {
+  font-family: Barlow-ExtraBold;
+  src: url("./Barlow-ExtraBold.ttf") format("trueType");
+  font-display: block;
+}
+
+@font-face {
+  font-family: Barlow-Light;
+  src: url("./Barlow-Light.ttf") format("trueType");
+  font-display: block;
+}
+
+@font-face {
+  font-family: Barlow-Medium;
+  src: url("./Barlow-Medium.ttf") format("trueType");
+  font-display: block;
+}
+
+@font-face {
+  font-family: Barlow-SemiBold;
+  src: url("./Barlow-SemiBold.ttf") format("trueType");
+  font-display: block;
+}

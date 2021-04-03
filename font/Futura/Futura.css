@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Futura;
+  src: url("./Futura.ttf") format("trueType");
+  font-display: block;
+}
+
+@font-face {
+  font-family: FuturBT;
+  src: url("./Futura Book font.ttf") format("trueType");
+  font-display: block;
+}
